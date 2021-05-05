@@ -1,7 +1,5 @@
 public class Calculator {
 	int s_balance;
-//	int deposit;
-//	int payment;
 	int judge;
 	
 	public void setBalance(int balance) {
