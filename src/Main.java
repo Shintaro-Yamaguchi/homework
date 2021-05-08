@@ -12,6 +12,7 @@ public class Main {
 		
 		t1.payment(20000);
 		System.out.println("残高は" + t1.getBalance());
+		
 	}
 
 }
